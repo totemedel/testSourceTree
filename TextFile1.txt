@@ -2,3 +2,4 @@ Hello world!
 This is the second line in the file.
 Hi, this is User1.
 Hi, this is User2.
+User2 updating textFile1.
