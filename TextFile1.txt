@@ -1,4 +1,5 @@
 Hello world!
+User2 makes a change near start of TextFile1.
 This is the second line in the file.
 Hi, this is User1.
 Hi, this is User2.
